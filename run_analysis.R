@@ -81,6 +81,7 @@ write.table(file = "codebook.md", paste(names(tidy)), sep = "\t")
 write.table(file = "Tidy dataset 2.txt", x = tidy, row.names = FALSE, sep = "\t")
 
 
+
 #------------------------------------------------------------------
 
 
