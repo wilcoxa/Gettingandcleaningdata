@@ -75,7 +75,7 @@ tidy <- tat[ , lapply(.SD, mean), by = c("Subject No.", "Activity")]
 
 
 # write variable names to codebook
-write.table(file = "codebook.md", paste(names(tidy)), sep = "\n")
+write.table(file = "codebook.md", paste(names(tidy)), sep = "\t")
             
 #write tidy dataset 2 as a tab delimeted txt file
 write.table(file = "Tidy dataset 2.txt", x = tidy, row.names = FALSE, sep = "\t")
