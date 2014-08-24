@@ -1,4 +1,4 @@
-Gettingandcleaningdata
+Getting and cleaning data course project - Readme
 ======================
 
 * Run the run_analysis script from the directory that contains the UCI HAR Dataset folder
