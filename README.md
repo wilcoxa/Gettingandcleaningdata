@@ -15,5 +15,5 @@ Note that I have also included the meanFreq variables as they are also mean valu
 
 The subjects and activities are then aggregated and the mean of these values calculated.
 
-This dataset is then exported using write.table to a file named "Tidy Dataset 2.txt" in tab delimeted format.
+This dataset is then exported using write.table to a file named "Tidy Dataset 2.txt" in tab delimited format.
 
